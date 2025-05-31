@@ -1,4 +1,3 @@
-# Loading Screen Solutions
 ## BreakFree Consulting: Your Guide to Digital Independence
 
 
