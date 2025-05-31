@@ -1,6 +1,3 @@
-## BreakFree Consulting: Your Guide to Digital Independence
-
-
 ### Here's What I've Learned Running a Business on Free Software
 
 Most business software is designed for enterprises with hundreds of employees and unlimited budgets. But if you're running a small business, freelancing, or just want better control over your digital life, you're paying for features you'll never use.
