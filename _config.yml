@@ -6,4 +6,4 @@ author:
 description: "Digital Independence"
 
 # Build settings
-remote_theme: jekyll/modernist
+remote_theme: jekyll/slate
