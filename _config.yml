@@ -1,3 +1,9 @@
-theme: jekyl-theme-slate
+# Site settings
 title: Loading Screen Solutions
-description: Your Guide to Digital Independence
+author:
+  name: James Miller
+  email: james@loadingscreensolutions.com
+description: "Digital Independence"
+
+# Build settings
+remote_theme: jekyll/minima
