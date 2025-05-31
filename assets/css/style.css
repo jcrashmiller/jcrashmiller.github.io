@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.main-content {
+  max-width: none;
+}
+
+header h1 {
+  display: none; /* Hides the username link */
+}
