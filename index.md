@@ -34,6 +34,19 @@ I help small businesses, freelancers, students, and privacy-conscious individual
 
 ---
 
+### "But Won't This Create a Mess?"
+
+You might have read [recent articles about people switching to indie apps](https://www.androidauthority.com/switched-indie-apps-privacy-workflow-mess-3515842/) and ending up with a fragmented workflow. Here's the difference: **they did it alone, without a plan.**
+
+My approach:
+- **Assess first** - What do you actually need vs. what you're paying for?
+- **Phased migration** - Critical systems first, nice-to-haves later
+- **Integration planning** - Choose tools that work together
+- **Training included** - You won't be left figuring it out alone
+
+The article author saved money but lost productivity because they had no migration strategy. That's exactly what I prevent.
+
+---
 ### Services
 
 #### 🎯 **Digital Independence Course** - $47
