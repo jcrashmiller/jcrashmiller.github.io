@@ -42,8 +42,8 @@ Complete step-by-step guide to replacing big tech software with free alternative
 #### 💼 **Custom Business Assessment** - $75/hour
 One-on-one consultation to evaluate your specific needs and create a personalized migration plan for your business.
 
-#### 🚀 **Complete Digital Liberation Package** - $500-800
-Full implementation service: I assess your needs, recommend solutions, teaching you enough to make informed decsiions, and help you migrate to an independent tech stack.
+#### 🚀 **Complete Digital Liberation Package** - $500-$800
+Full implementation service: I assess your needs, recommend solutions, teaching you enough to make informed decisions, and help you migrate to an independent tech stack.
 
 ---
 
