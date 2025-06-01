@@ -36,7 +36,7 @@ I help small businesses, freelancers, students, and privacy-conscious individual
 
 ### "But Won't This Create a Mess?"
 
-You might have read [recent articles about people switching to indie apps](https://www.androidauthority.com/switched-indie-apps-privacy-workflow-mess-3515842/) and ending up with a fragmented workflow. Here's the difference: **they did it alone, without a plan.**
+You might have read [recent articles about people switching to indie apps](https://www.androidauthority.com/i-switched-to-indie-apps-for-privacy-and-now-my-workflow-is-a-mess-3559712/) and ending up with a fragmented workflow. Here's the difference: **they did it alone, without a plan.**
 
 My approach:
 - **Assess first** - What do you actually need vs. what you're paying for?
